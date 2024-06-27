@@ -1,3 +1,4 @@
 primer archivo para repositorio
-
+segunda linea
 modificacion para enviar commit 2
+Liena agregada -"No te olvides de nbajar el cambio"
